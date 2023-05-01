@@ -1,5 +1,0 @@
----
-title: architectures of knowledge
----
-
-## 
